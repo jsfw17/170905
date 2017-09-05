@@ -34,10 +34,6 @@ Sorting Algorithms Dance
 https://www.youtube.com/playlist?list=PLuE79vNc5Wi6q34LsQcaJ7ISQ8uOyMaL_
 
 
-Can you solve the airplane riddle? (自動翻譯字幕)
-https://www.youtube.com/watch?v=dzrwnwOx0fw
-
-
 前端工程興起後的程式設計分工
 http://www.ithome.com.tw/node/83410
 
@@ -53,79 +49,12 @@ http://ocw.nctu.edu.tw/course_detail.php?bgid=8&gid=0&nid=493#.V-K8ZSh96hd
 
 
 
+【小專題參考】
+以下兩個今天資策會學員的專題，提供大家在想專題時參考:
 
+資策會 WGPD01 - Web/Game/App前端 工程師養成班第一期 結訓發表
+https://www.youtube.com/watch?v=cKMC1SDoTEM
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Sum 1 to 100
-
-001 + 002 + 003 + ... + 098 + 099 + 100
-==> 5050
-
-
-001 + 002 + 003 + ... + 098 + 099 + 100
-100 + 099 + 097 + ... + 003 + 002 + 001
-==> ( 1 + 100 ) * 100 / 2 = 5050
-
-
-50  49  48 ...  3   2   1
-51  52  53 ... 98  99  100
-==> 101 * 50 = 5050
+資策會 智慧系統整合人才養成班02期 HTML5 小專題發表
+https://www.youtube.com/watch?v=N1Mwy7BsZ8U
 
